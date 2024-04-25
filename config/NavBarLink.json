@@ -1,0 +1,20 @@
+[
+    {
+        "linkName": "Application",
+        "linkSVG": "app",
+        "linkDirection": "#",
+        "target": "/app"
+    },
+    {
+        "linkName": "Curriculum Vitae",
+        "linkSVG": "cv",
+        "linkDirection": "#",
+        "target": "/cv"
+    },
+    {
+        "linkName": "Parametre",
+        "linkSVG": "setting",
+        "linkDirection": "#",
+        "target": ""
+    }
+]
